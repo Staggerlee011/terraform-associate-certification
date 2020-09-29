@@ -11,3 +11,4 @@ study guide, grokking of knowledge for the terraform associate exam
 1. [Understand Terraform basics](terraform-basics/README.md)
 1. [Use the Terraform CLI (outside of core workflow)](terraform-cli/README.md)
 1. [Interact with Terraform modules](modules/README.md)
+1. [Navigate Terraform workflow](workflow/README.md)

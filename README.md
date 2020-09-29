@@ -14,3 +14,4 @@ study guide, grokking of knowledge for the terraform associate exam
 1. [Navigate Terraform workflow](workflow/README.md)
 1. [Implement and maintain state](state/README.md)
 1. [Read, generate, and modify configuration](configuration/README.md)
+1. [Understand Terraform Cloud and Enterprise capabilities](cloud/README.md)

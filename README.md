@@ -15,3 +15,11 @@ study guide, grokking of knowledge for the terraform associate exam
 1. [Implement and maintain state](state/README.md)
 1. [Read, generate, and modify configuration](configuration/README.md)
 1. [Understand Terraform Cloud and Enterprise capabilities](cloud/README.md)
+
+## Resources
+
+A collection of resources for the exam as well as terraform in the real world
+
+- [Hashicorp learn - terraform associate](https://learn.hashicorp.com/tutorials/terraform/associate-study?in=terraform/certification)
+- [manning - terraform in action](https://www.manning.com/books/terraform-in-action)
+- [terraform best practices](https://www.terraform-best-practices.com/)

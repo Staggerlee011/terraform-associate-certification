@@ -8,3 +8,4 @@ study guide, grokking of knowledge for the terraform associate exam
 
 1. [Understand Infrastructure as Code (IaC) concepts](iac/README.md)
 1. [Understand Terraform's purpose (vs other IaC)](terraform-purpose/READM.md)
+1. [Understand Terraform basics](terraform-basics/README.md)
